@@ -1,2 +1,16 @@
-# PPSC-Test-Preparation-App
-The PPSC Test Preparation App is your all-in-one solution for preparing for Punjab Public Service Commission exams. It offers subject-wise MCQs, PDF notes, smart quizzes, and daily current affairs. With performance tracking, job alerts, and AI-based recommendations, it's the perfect tool for serious aspirants.
+# project_final_year
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
